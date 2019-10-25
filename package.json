@@ -9,5 +9,9 @@
   "repository": "https://github.com/wrule/node-call-c-demo",
   "author": "鸡毛 <shihao.gu@perfma.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "@types/ffi": "^0.2.2",
+    "ffi": "^2.3.0"
+  }
 }
