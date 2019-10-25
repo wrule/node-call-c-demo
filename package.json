@@ -1,0 +1,13 @@
+{
+  "name": "node-call-c-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "node built/index.js"
+  },
+  "repository": "https://github.com/wrule/node-call-c-demo",
+  "author": "鸡毛 <shihao.gu@perfma.com>",
+  "license": "MIT",
+  "private": false
+}
